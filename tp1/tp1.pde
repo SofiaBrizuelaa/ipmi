@@ -1,3 +1,5 @@
+//Sofia Brizuela Comisión 3 118977/0
+
 PImage miFoto;
 void setup () {
  size (800, 400);
